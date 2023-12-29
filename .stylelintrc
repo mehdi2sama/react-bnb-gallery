@@ -16,7 +16,7 @@
           "else",
           "for",
           "each",
-          "while",
+          "while",oreAtRules": [
           "mixin",
           "include",
           "content",
